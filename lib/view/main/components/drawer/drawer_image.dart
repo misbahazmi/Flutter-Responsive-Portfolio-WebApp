@@ -4,7 +4,6 @@ import '../../../../res/constants.dart';
 
 class DrawerImage extends StatelessWidget {
   const DrawerImage({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Container(
